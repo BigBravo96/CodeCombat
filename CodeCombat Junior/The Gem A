@@ -1,0 +1,3 @@
+go('right')
+go('up')
+go('right')
